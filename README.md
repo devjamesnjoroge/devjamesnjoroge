@@ -10,13 +10,6 @@
 ### 🌳 Current Project
 📷 I'm working on a To-do react web app.
 
-<div style="display:inline-flex;flex-wrap:wrap">
-
-  <img align="center" alt="Dianakariuki" height="70%" width="70%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-  
-  
-</div>
-
 <br>
 <div align="center">
   <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=devjamesnjoroge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
