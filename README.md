@@ -1,9 +1,9 @@
 
- ### Hi, I'm [James](https://github.com/devjamesnjoroge), welcome to my page.
+ ### Hello there, I am [James](https://github.com/devjamesnjoroge), welcome to my hood.
  ### About Me
-👩🏿‍🎓 I am an entry level Full Stack Software development graduate from Moringa School.<br>
+🎓 I am an entry level Full Stack Software development graduate from Moringa School.<br>
 💡 I am consistently improving my skill level and open for open source projects.<br>
-🧑🏿‍💻 I’m currently learning reactjs and improving on data structures and algorithms<br>
+‍💻 I’m currently learning reactjs and improving on data structures and algorithms<br>
 ⚡ Fun fact: I love playing chess.<br>
 🇰🇪 I live in Kenya.<br>
 
@@ -42,6 +42,11 @@
 
 <!-- #### Profile Visits  -->
 
+### Profile Visits.
+
+---
+[![](https://visitcount.itsvg.in/api?id=devjamesnjoroge&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
  ### Tools :
 
@@ -64,7 +69,7 @@
  <a href="https://www.linkedin.com/in/devjamesnjoroge/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://twitter.com/devjaymmy" target="_blank" style="margin-right: 2%;">
    <img src="https://img.shields.io/badge/@devjaymmy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
- 
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
